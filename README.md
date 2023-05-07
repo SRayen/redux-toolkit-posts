@@ -8,3 +8,4 @@
 
 # Redux DevTools:
 
+![redux devtools](https://user-images.githubusercontent.com/13922445/236697199-e5bfacfe-744d-4803-a1f4-381d302e69ca.png)
